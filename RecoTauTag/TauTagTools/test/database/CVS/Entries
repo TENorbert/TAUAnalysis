@@ -1,0 +1,8 @@
+/BuildLocalSQLiteDB.sh/1.1/Tue Jan 26 21:21:25 2010//TV01-02-01
+/BuildTauMVASchemaInOrcoff.sh/1.1/Tue Jan 26 21:21:25 2010//TV01-02-01
+/CopyLocalTancToOrcoff.sh/1.1/Tue Jan 26 21:21:25 2010//TV01-02-01
+/ReblobTancDB_cfg.py/1.1/Tue Jan 26 21:21:25 2010//TV01-02-01
+/UploadTancToDB.py/1.1/Tue Jan 26 21:21:25 2010//TV01-02-01
+/build_mapping.sh/1.1/Tue Jan 26 21:21:25 2010//TV01-02-01
+/copyMVACalibrationToCondDB_cfg.py/1.1/Tue Jan 26 21:21:25 2010//TV01-02-01
+D

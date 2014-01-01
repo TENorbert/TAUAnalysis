@@ -1,0 +1,25 @@
+/candidateCountFilter_cfi.py/1.2/Mon Mar  9 12:43:33 2009//Tb4_2_x_2011Sep13
+/diCandidatePairProducer_cfi.py/1.4/Wed Jun  8 10:13:53 2011//Tb4_2_x_2011Sep13
+/diTauPairProductionAllKinds_cff.py/1.6/Thu Jan  7 13:38:36 2010//Tb4_2_x_2011Sep13
+/diTauPairProduction_cff.py/1.18/Mon Jun 13 17:57:28 2011//Tb4_2_x_2011Sep13
+/diTauPairSelectionAllKinds_cff.py/1.22/Thu Feb 10 16:48:31 2011//Tb4_2_x_2011Sep13
+/diTauPairSelection_cfi.py/1.8/Fri Dec  3 16:08:56 2010//Tb4_2_x_2011Sep13
+/elecMuPairProduction_cff.py/1.13/Mon Jun 13 17:57:28 2011//Tb4_2_x_2011Sep13
+/elecMuPairSelection_cfi.py/1.7/Mon Aug  3 08:37:00 2009//Tb4_2_x_2011Sep13
+/elecTauPairProduction_cff.py/1.21/Wed Aug 31 18:02:29 2011//Tb4_2_x_2011Sep13
+/elecTauPairSelectionForAHtoElecTau_cff.py/1.2/Thu Feb 10 16:48:31 2011//Tb4_2_x_2011Sep13
+/elecTauPairSelection_cfi.py/1.7/Thu Feb 10 16:48:31 2011//Tb4_2_x_2011Sep13
+/htRatio_cfi.py/1.2/Wed Jun 22 22:04:22 2011//Tb4_2_x_2011Sep13
+/metTopology_cfi.py/1.9/Tue Jul  5 10:33:27 2011//Tb4_2_x_2011Sep13
+/muTauPairProduction_cff.py/1.62/Mon Jun 13 17:57:28 2011//Tb4_2_x_2011Sep13
+/muTauPairSelectionForAHtoMuTau_cff.py/1.6/Tue Jun 21 17:09:53 2011//Tb4_2_x_2011Sep13
+/muTauPairSelection_cfi.py/1.7/Fri Dec  3 16:08:56 2010//Tb4_2_x_2011Sep13
+/nSVfitAlgorithmDiTau_cfi.py/1.24/Sat Jun 25 10:19:08 2011//Tb4_2_x_2011Sep13
+/nSVfitAlgorithmTauDecayKineMC_cfi.py/1.6/Sun Jun 12 10:54:44 2011//Tb4_2_x_2011Sep13
+/resolutions_cfi.py/1.2/Sat Apr 10 13:51:37 2010//Tb4_2_x_2011Sep13
+/sysErrDefinitions_cfi.py/1.20/Tue Jul  5 10:32:34 2011//Tb4_2_x_2011Sep13
+/tauNuPairProduction_cff.py/1.12/Thu Jun 23 18:54:03 2011//Tb4_2_x_2011Sep13
+/tauNuPairSelection_cfi.py/1.2/Mon Aug  8 04:41:27 2011//Tb4_2_x_2011Sep13
+/vbfEventProductionForAHtoMuTau_cff.py/1.3/Sat Jun 25 19:36:13 2011//Tb4_2_x_2011Sep13
+/vbfEventSelectionForAHtoMuTau_cff.py/1.1/Tue Jun 21 17:09:53 2011//Tb4_2_x_2011Sep13
+D/tools////

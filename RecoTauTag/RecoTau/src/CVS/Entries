@@ -1,0 +1,23 @@
+/AntiElectronIDMVA.cc/1.1.2.3/Tue Nov 29 12:54:12 2011//TV01-02-16
+/CaloRecoTauAlgorithm.cc/1.33/Tue Oct 19 21:21:37 2010//TV01-02-16
+/CaloRecoTauTagInfoAlgorithm.cc/1.21/Tue Oct 19 21:21:37 2010//TV01-02-16
+/HPSPFRecoTauAlgorithm.cc/1.18/Tue Oct 19 21:21:37 2010//TV01-02-16
+/PFRecoTauAlgorithm.cc/1.81/Tue Oct 19 21:21:38 2010//TV01-02-16
+/PFRecoTauAlgorithmBase.cc/1.2/Tue Jan 26 23:09:11 2010//TV01-02-16
+/PFRecoTauTagInfoAlgorithm.cc/1.19/Mon Jul 11 13:13:09 2011//TV01-02-16
+/PFTauDecayModeTools.cc/1.3/Mon Apr 25 09:49:23 2011//TV01-02-16
+/RecoTauBinnedIsolationPlugin.cc/1.1/Tue Mar  1 12:50:00 2011//TV01-02-16
+/RecoTauBuilderPlugins.cc/1.4/Fri Apr 15 14:56:25 2011//TV01-02-16
+/RecoTauCommonUtilities.cc/1.6/Fri Apr 15 14:56:25 2011//TV01-02-16
+/RecoTauConstructor.cc/1.9/Thu May 19 14:15:16 2011//TV01-02-16
+/RecoTauDiscriminantFunctions.cc/1.14/Mon Mar 21 11:11:21 2011//TV01-02-16
+/RecoTauDiscriminantPlugins.cc/1.1/Wed Sep 22 14:16:57 2010//TV01-02-16
+/RecoTauIsolationMasking.cc/1.1/Tue Mar  1 12:45:35 2011//TV01-02-16
+/RecoTauMVAHelper.cc/1.9/Fri Mar 18 15:46:36 2011//TV01-02-16
+/RecoTauPiZeroPlugins.cc/1.1/Wed Sep 22 14:16:57 2010//TV01-02-16
+/RecoTauPluginsCommon.cc/1.2/Mon Feb 14 14:15:19 2011//TV01-02-16
+/RecoTauQualityCuts.cc/1.8/Thu Jun 23 16:14:09 2011//TV01-02-16
+/RecoTauVertexAssociator.cc/1.6/Mon Jun 27 15:18:01 2011//TV01-02-16
+/TCTauAlgorithm.cc/1.3/Tue Oct 19 21:21:38 2010//TV01-02-16
+/TauDiscriminationProducerBase.cc/1.4/Tue May 17 10:13:06 2011//TV01-02-16
+D

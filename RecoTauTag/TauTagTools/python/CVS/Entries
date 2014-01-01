@@ -1,0 +1,21 @@
+/BenchmarkPointCuts_cfi.py/1.5/Sat Mar 27 00:01:19 2010//TV01-02-01
+/DiTaus_cfi.py/1.2/Tue Jan 27 23:18:35 2009//TV01-02-01
+/MVASteering_cfi.py/1.5/Thu Feb 11 00:19:59 2010//TV01-02-01
+/PFRecoTauLogicalDiscriminator_cfi.py/1.1/Sun May 31 12:14:25 2009//TV01-02-01
+/PFTauMVAInputDiscriminatorTranslator_cfi.py/1.2/Tue Nov  9 16:00:38 2010//TV01-02-01
+/PFTauMatching_cfi.py/1.1/Wed Dec 15 10:15:56 2010//TV01-02-01
+/PFTauSelector_cfi.py/1.2/Fri Mar 27 18:42:26 2009//TV01-02-01
+/RecoTauCommonJetSelections_cfi.py/1.6/Mon Mar  7 19:57:36 2011//TV01-02-01
+/RecoTauTruthMatchedTauProducer_cfi.py/1.1/Thu Oct 28 13:23:05 2010//TV01-02-01
+/RecoTauTruthMatching_cfi.py/1.1/Thu Oct 28 13:23:05 2010//TV01-02-01
+/TancConditions_cff.py/1.4/Fri Apr 10 07:29:22 2009//TV01-02-01
+/TauMVAConfigurations_cfi.py/1.2/Sat Feb 28 01:04:38 2009//TV01-02-01
+/TauMVADiscriminator_cfi.py/1.14/Tue Mar  1 12:57:25 2011//TV01-02-01
+/TauMVATrainer_cfi.py/1.3/Fri Mar 27 18:42:26 2009//TV01-02-01
+/TauNeuralClassifiers_cfi.py/1.7/Thu Oct 28 13:28:43 2010//TV01-02-01
+/TauRecoTruthMatchers_cfi.py/1.4/Fri Mar 27 18:42:26 2009//TV01-02-01
+/TauTruthProduction_cfi.py/1.2/Thu Nov  4 15:40:18 2010//TV01-02-01
+/TruthTauDecayModeProducer_cfi.py/1.3/Thu Mar  4 05:43:00 2010//TV01-02-01
+/ZtoTauHadronic_cfi.py/1.2/Tue Jan 27 23:18:36 2009//TV01-02-01
+/tauDecayModes_cfi.py/1.1/Sun Sep 25 12:40:32 2011//TV01-02-01
+D
